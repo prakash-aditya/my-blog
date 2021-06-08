@@ -26,10 +26,10 @@ module.exports = {
           },
         ],
         externalLinks: [
-          {
-            name: `Github`,
-            url: `https://github.com/prakash-aditya`,
-          },
+          // {
+          //   name: `Github`,
+          //   url: `https://github.com/prakash-aditya`,
+          // },
           {
             name: `LinkedIn`,
             url: `https://www.linkedin.com/in/prakash-aditya/`,
